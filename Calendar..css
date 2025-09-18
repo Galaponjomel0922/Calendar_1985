@@ -63,7 +63,50 @@ img {
 }
 
 
-@media (max-width: 480px) {
+@media (max-width:490px) {
+  body {
+    font-size: 14px;
+    margin: 10px;
+  }
+}
+
+@media (max-width:450px) {
+  body {
+    font-size: 14px;
+    margin: 10px;
+  }
+}
+
+@media (max-width:1024px) {
+  body {
+    font-size: 14px;
+    margin: 10px;
+  }
+}
+
+@media (max-width:768px) {
+  body {
+    font-size: 14px;
+    margin: 10px;
+  }
+}
+
+@media (max-width:768px) {
+  body {
+    font-size: 14px;
+    margin: 10px;
+  }
+}
+
+
+@media (max-width:1440px) {
+  body {
+    font-size: 14px;
+    margin: 10px;
+  }
+}
+
+@media (max-width:425px) {
   body {
     font-size: 14px;
     margin: 10px;
