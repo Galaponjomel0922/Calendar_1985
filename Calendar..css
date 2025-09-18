@@ -91,6 +91,20 @@ img {
   }
 }
 
+@media (max-width:375px) {
+  body {
+    font-size: 14px;
+    margin: 10px;
+  }
+}
+
+@media (max-width:320px) {
+  body {
+    font-size: 14px;
+    margin: 10px;
+  }
+}
+
 @media (max-width:768px) {
   body {
     font-size: 14px;
@@ -98,6 +112,12 @@ img {
   }
 }
 
+@media (max-width:320px) {
+  body {
+    font-size: 14px;
+    margin: 10px;
+  }
+}
 
 @media (max-width:1440px) {
   body {
